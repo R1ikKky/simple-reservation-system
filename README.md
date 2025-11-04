@@ -32,6 +32,7 @@ POST /api/events/create
   "name": "smth",
   "totalSeats": 100
 }
+```
 2. Бронирование места
 
 POST /api/bookings/reserve
